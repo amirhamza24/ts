@@ -2,7 +2,7 @@ let userId: string | number;
 
 userId = 123;  // no error
 userId = "Hello World";  // no error
-// userId = true; // error
+// userId = true; // error, cause this is 'boolean' data type and this data type is not define.
 
 console.log("user: ", userId);  // output: "Hello World"
 
