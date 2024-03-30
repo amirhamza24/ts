@@ -1,6 +1,6 @@
 // let fruits = ["Mango", "Orange", "Banana", "Lemon", "Tamarind"]
 
-// let fruits: string[];  // etau use kora jay, abar nicher line er taw use kora jay. j kono ekta korlei hobe. eta holo 'array' declaration
+// let fruits: string[];   // etau use kora jay, abar nicher line er taw use kora jay. j kono ekta korlei hobe. eta holo 'array' declaration
 
 let fruits: Array<string>
 fruits = ["Mango", "Orange", "Banana", "Lemon", "Tamarind"];
