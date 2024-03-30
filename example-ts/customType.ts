@@ -17,7 +17,7 @@ users.push(user3);
 
 console.log(users)
 
-// output
+// output here
 // { userName: "Hello", userId: 101 }
 // { userName: "Hello2", userId: 103 }
 // { userName: "Hello3", userId: 103 }
